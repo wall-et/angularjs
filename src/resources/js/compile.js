@@ -1,5 +1,6 @@
 /* use strict */
-var app = angular.module('MyApp', [])
+
+/*var app = angular.module('MyApp', [])
 app.controller('MainController', function ($scope)
 {
 	$scope.labelName = "New Button";
@@ -90,3 +91,4 @@ app.controller('MainController', function ($scope)
 		}
 	}
 })
+*/

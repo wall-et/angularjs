@@ -1,0 +1,184 @@
+[
+	{
+		"name":			"Arictuno",
+		"type":			"Ice",
+		"abilities":	"Pressure",
+		"color":		"blue",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/4/4e/144Articuno.png/600px-144Articuno.png"
+	},
+	{
+		"name":			"Charizard",
+		"type":			"Fire",
+		"abilities":	"Blaze",
+		"color":		"red",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/7/7e/006Charizard.png/600px-006Charizard.png"
+	},
+	{
+		"name":			"Celebi",
+		"type":			"Psychic",
+		"abilities":	"Natural Cure",
+		"color":		"green",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/e/e7/251Celebi.png/250px-251Celebi.png"
+	},
+	{
+		"name":			"Gengar",
+		"type":			"Ghost",
+		"abilities":	"Levitate",
+		"color":		"purple",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/c/c6/094Gengar.png/250px-094Gengar.png"
+	},
+	{
+		"name":			"Kyogre",
+		"type":			"Water",
+		"abilities":	"Drizzle",
+		"color":		"blue",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/4/41/382Kyogre.png/250px-382Kyogre.png"
+	},
+	{
+		"name":			"Raikou",
+		"type":			"Electric",
+		"abilities":	"Pressure",
+		"color":		"yellow",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/c/c1/243Raikou.png/250px-243Raikou.png"
+	},
+	{
+		"name":			"Scyther",
+		"type":			"Bug",
+		"abilities":	"Swarm or Technician",
+		"color":		"green",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/b/ba/123Scyther.png/250px-123Scyther.png"
+	},
+	{
+		"name":			"Typhlosion",
+		"type":			"Fire",
+		"abilities":	"Blaze",
+		"color":		"yellow",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/4/47/157Typhlosion.png/250px-157Typhlosion.png"
+	},
+	{
+		"name":			"Groudon",
+		"type":			"Ground",
+		"abilities":	"Drought",
+		"color":		"red",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/7/70/383Groudon.png/250px-383Groudon.png"
+	},
+	{
+		"name":			"Alakazam",
+		"type":			"Psychic",
+		"abilities":	"Synchronize or Inner Focus",
+		"color":		"brown",
+		"image":		"http://cdn.bulbagarden.net/upload/c/cc/065Alakazam.png"
+	},
+	{
+		"name":			"Scizor",
+		"type":			"Bug",
+		"abilities":	"Swarm or Technician",
+		"color":		"red",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/5/55/212Scizor.png/250px-212Scizor.png"
+	},
+	{
+		"name":			"Entei",
+		"type":			"Fire",
+		"abilities":	"Pressure",
+		"color":		"brown",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/f/f9/244Entei.png/250px-244Entei.png"
+	},
+	{
+		"name":			"Suicune",
+		"type":			"Water",
+		"abilities":	"Pressure",
+		"color":		"blue",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/d/da/245Suicune.png/250px-245Suicune.png"
+	},
+	{
+		"name":			"Venusaur",
+		"type":			"Grass",
+		"abilities":	"Overgrow",
+		"color":		"green",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/a/ae/003Venusaur.png/250px-003Venusaur.png"
+	},
+	{
+		"name":			"Ho-oh",
+		"type":			"Fire",
+		"abilities":	"Pressure",
+		"color":		"red",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/6/67/250Ho-Oh.png/250px-250Ho-Oh.png"
+	},
+	{
+		"name":			"Arcanine",
+		"type":			"Fire",
+		"abilities":	"Intimidate or Flash Fire",
+		"color":		"brown",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/b/b8/059Arcanine.png/250px-059Arcanine.png"
+	},
+	{
+		"name":			"Gyarados",
+		"type":			"Water",
+		"abilities":	"Intimidate",
+		"color":		"blue",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/4/41/130Gyarados.png/250px-130Gyarados.png"
+	},
+	{
+		"name":			"Zekrom",
+		"type":			"Dragon",
+		"abilities":	"Teravolt",
+		"color":		"black",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/8/81/644Zekrom.png/250px-644Zekrom.png"
+	},
+	{
+		"name":			"Tyranitar",
+		"type":			"Rock",
+		"abilities":	"Sand Stream",
+		"color":		"green",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/8/82/248Tyranitar.png/250px-248Tyranitar.png"
+	},
+	{
+		"name":			"Zapdos",
+		"type":			"Electric",
+		"abilities":	"Pressure",
+		"color":		"yellow",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/e/e3/145Zapdos.png/600px-145Zapdos.png"
+	},
+	{
+		"name":			"Rayquaza",
+		"type":			"Dragon",
+		"abilities":	"Air Lock",
+		"color":		"green",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/e/e4/384Rayquaza.png/250px-384Rayquaza.png"
+	},
+	{
+		"name":			"Mew",
+		"type":			"Psychic",
+		"abilities":	"Synchronize",
+		"color":		"pink",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/b/b1/151Mew.png/250px-151Mew.png"
+	},
+	{
+		"name":			"Dragonite",
+		"type":			"Dragon",
+		"abilities":	"Inner Focus",
+		"color":		"brown",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/8/8b/149Dragonite.png/250px-149Dragonite.png"
+	},
+	{
+		"name":			"Lugia",
+		"type":			"Psychic",
+		"abilities":	"Pressure",
+		"color":		"white",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/4/44/249Lugia.png/250px-249Lugia.png"
+	},
+	{
+		"name":			"Blastoise",
+		"type":			"Water",
+		"abilities":	"Torrent",
+		"color":		"blue",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/0/02/009Blastoise.png/250px-009Blastoise.png"
+	},
+	{
+		"name":			"Mewtwo",
+		"type":			"Psychic",
+		"abilities":	"Pressure",
+		"color":		"purple",
+		"image":		"http://cdn.bulbagarden.net/upload/thumb/7/78/150Mewtwo.png/250px-150Mewtwo.png"
+	}
+]

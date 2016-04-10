@@ -1,0 +1,27 @@
+<div class="panel panel-default">
+	<div class="panel-body">
+		<div>
+			<figure>
+				<img src="{{image}}">
+				<figcaption>{{name}}</figcaption>
+			</figure>
+		</div>
+	</div>
+	<div>
+		Select Attack Type:
+		<select data-ng-model="attacktype"
+			data-ng-options="attacktype for attacktype in attacktypes">		
+		</select>
+	</div>
+	<div>
+		<input type="text"
+			data-ng-model="value"
+			class="form-control">
+	</div>
+	<div class="panel-footer clearfix">
+		<div class="btn btn-primary"
+			data-ng-click="useAttack({name:name,attacktype:attacktype,attack:value})">
+			Attack!
+		</div>
+	</div>
+</div>

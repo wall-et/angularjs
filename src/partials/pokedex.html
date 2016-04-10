@@ -1,0 +1,22 @@
+
+		
+		<div class="row" data-ng-controller="pokDataCtrl">		
+		<h4>{{pokedexLabel}}!</h4>
+			<input type="text" data-ng-model="search.$"/>
+			<table class="table table-stripped">
+				<thead>
+					<th>Pokemon</th>
+					<th>Type</th>
+					<th>Abilities</th>
+					<th>Color</th>
+				</thead>
+				<tbody>
+					<tr data-ng-repeat="pokemon in pokemons | orderBy:name | filter:search">
+						<td>{{pokemon.name}}</td>
+						<td>{{pokemon.type}}</td>
+						<td>{{pokemon.abilities}}</td>
+						<td>{{pokemon.color}}</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>

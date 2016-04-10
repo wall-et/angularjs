@@ -1,0 +1,27 @@
+<div class="panel panel-default" singlepokemon>
+	<div class="panel-body">
+		<div>
+			<figure>
+				<img src="{{pok.image}}">
+				<figcaption>{{pok.name}}</figcaption>
+			</figure>
+			<div>Abilities: {{pok.ability}}</div>
+			<div>Types: {{pok.type}}</div>
+		</div>
+	</div>
+</div>
+<div class="panel panel-default">
+	<div class="panel-body">
+	Select pokemon to attack:
+		<select 
+			data-ng-model="pokemonName"
+			data-ng-options="pokemonName for pokemonName in pokemonsNames">
+		</select>
+		<div class="panel-footer clearfix">
+			<div class="btn btn-primary"
+				data-ng-click="pokAttack({name:name,pokemonToAttack:pokemonName})">
+				Attack!
+			</div>
+		</div>
+	</div>
+</div>

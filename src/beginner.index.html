@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<title>AccioCode AngularJS Tutorial</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-COMPATIBLE" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+ 	<script src="/dev-dist/js/angularjstutorial-deps.js"></script>
+  	<script src="/dev-dist/js/bundle.js"></script>
+  	<link rel="stylesheet" href="/dev-dist/css/bundle.css">
+</head>
+<body>
+	<div class="mainContainer" ng-app="AngularPracticeApp" ng-controller="TestCtrl">
+		<div>
+			<h3>Lesson 7 - Directives 4</h3>
+			<theavengers ironman hawkeye blackwidow class="btn btn-default">
+				The Avengers
+			</theavengers>
+			<theavengers ironman class="btn btn-default">
+				Click IronMan
+			</theavengers>
+			<theavengers hawkeye class="btn btn-default">
+				Click HawkEye
+			</theavengers>
+			<theavengers blackwidow class="btn btn-default">
+				Click BlackWidow
+			</theavengers>
+		</div>
+		<div>
+			<h3>Lesson 6 - Directives 3</h3>
+			<div special-btn class="btn btn-default">
+				Button
+			</div>
+		</div>
+		<div>
+			<h3>Lesson 5 - Directives 2</h3>
+			<jacob massege="new element"></jacob>
+		</div>
+		<div>
+			<h3>Lesson 4 - Directives</h3>
+			<efratraube></efratraube>
+		</div>
+		<div ng-controller="FirstCtrl">
+			<h3>Lesson 3 - Controllers</h3>
+			<h4>{{data.plainControllerText}}</h4>
+		</div>
+		<div ng-app="AngularBindingPracticeApp">
+			<h3>Lesson 2 - Binding</h3>
+			<input type='text' ng-model='data.buttonText'>
+			<input type='text' ng-model='data.buttonClass'>
+			<button class="btn {{data.buttonClass}}">{{data.buttonText}}</button>
+			<p>enter your name</p>
+			<input type='text' ng-model=data.nameText>
+			<h3>{{data.nameText}}</h3>
+		</div>
+		<div>
+			<h3>Lesson 1</h3>
+			<h4>Efrat Traube</h4>
+			<button class="btn btn-default">bootstrap</button>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,26 @@
+[
+	{
+		"name":			"Arictuno",
+		"type":			["Ice","Flying"],
+		"abilities":	{"Pressure":"normal","Snow Cloak":"hidden"},
+		"color":		"blue"
+	},
+	{
+		"name":			"Charizard",
+		"type":			["Fire","Flying","Dragon"],
+		"abilities":	{"Blaze":"normal","Tough Claws":"mega","Drought":"mega","Solar Power":"hidden"},
+		"color":		"red"
+	},
+	{
+		"name":			"Celebi",
+		"type":			["Psychic","Grass"],
+		"abilities":	{"Natural Cure":"normal"},
+		"color":		"green"
+	},
+	{
+		"name":			"Gengar",
+		"type":			["ghost","Poison"],
+		"abilities":	{"Levitate":"normal","Shadow Tag":"mega"},
+		"color":		"purple"
+	}
+]
